@@ -57,7 +57,7 @@ I'm a 14-year-old solo developer from India passionate about **AI**, **computer 
 
 ### 📬 Reach me
 
-- 🌐 **Portfolio:** [ark-stem.com/u/aarav](https://ark-stem.com/u/aarav)
+- 🌐 **Portfolio:** [https://ark-stem.com/u/aarav](https://ark-stem.com/u/A_Solo_Engineer))
 - 🐛 **GitHub Issues:** Open an issue on any of my repos — I'm happy to discuss and collaborate!
 
 ---
