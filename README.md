@@ -5,7 +5,7 @@
 
 *Innovating to make life easier — one smart automation at a time. ⚙️🤖*
 
-[![Ark-STEM](https://img.shields.io/badge/Ark--STEM-Portfolio-blueviolet?style=flat)](https://ark-stem.com/u/aarav)
+[![Ark-STEM](https://img.shields.io/badge/Ark--STEM-Portfolio-blueviolet?style=flat)]([https://ark-stem.com/u/aarav](https://ark-stem.com/u/A_Solo_Engineer))
 [![GitHub followers](https://img.shields.io/github/followers/A-Solo-Engineer?style=social)](https://github.com/A-Solo-Engineer)
 
 </div>
@@ -57,7 +57,7 @@ I'm a 14-year-old solo developer from India passionate about **AI**, **computer 
 
 ### 📬 Reach me
 
-- 🌐 **Portfolio:** [https://ark-stem.com/u/aarav](https://ark-stem.com/u/A_Solo_Engineer))
+- 🌐 **Portfolio:** [https://ark-stem.com/u/aarav](https://ark-stem.com/u/A_Solo_Engineer)
 - 🐛 **GitHub Issues:** Open an issue on any of my repos — I'm happy to discuss and collaborate!
 
 ---
