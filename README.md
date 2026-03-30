@@ -14,7 +14,7 @@
 
 ### 🙋 Who am I?
 
-I'm a 14-year-old solo developer from India passionate about **AI**, **computer vision**, and **mechatronics**. I build research tools and image analysis pipelines that automate discovery and extract meaningful insights from data and the web.
+I'm a 14-year-old solo developer passionate about **AI**, **computer vision**, and **mechatronics**. I build research tools and image analysis pipelines that automate discovery and extract meaningful insights from data and the web.
 
 - 🎯 Goal: MIT
 - 🔭 Focus: AI, autonomous systems, microcontrollers, computer vision
