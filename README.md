@@ -17,7 +17,7 @@
 I'm a 14-year-old solo developer passionate about **AI**, **Automation**, and **mechatronics**. I build research tools, automation tools and analysis pipelines that automate discovery and extract meaningful insights from data and the web.
 
 - 🎯 Goal: MIT
-- 🔭 Focus: AI, autonomous systems, 
+- 🔭 Focus: AI, automation systems, and encryption softwares 
 - 🤝 Open for collaboration
 
 ---
@@ -45,7 +45,7 @@ I'm a 14-year-old solo developer passionate about **AI**, **Automation**, and **
 ### 📬 Reach me
 
 - 🌐 **Portfolio:** [https://ark-stem.com/u/aarav](https://ark-stem.com/u/A_Solo_Engineer)
--  **Email:** [https://mail.google.com/mail/u/1/](admin.forestritium@gmail.com)
+-  **Email:** admin.forestritium@gmail.com
 - 🐛 **GitHub Issues:** Open an issue on any of my repos — I'm happy to discuss and collaborate!
 
 ---
