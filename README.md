@@ -12,7 +12,7 @@
 
 ---
 
-### 🙋 Who am I?
+### Who am I?
 
 I'm a 14-year-old solo developer passionate about **AI**, **Automation**, and **mechatronics**. I build research tools, automation tools and analysis pipelines that automate discovery and extract meaningful insights from data and the web.
 
