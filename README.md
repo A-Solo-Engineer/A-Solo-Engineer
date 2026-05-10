@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Aarav 👋
-**14 y/o independent developer & maker**
+**Independent developer & maker**
 
 *Innovating to make life easier ⚙️🤖*
 
