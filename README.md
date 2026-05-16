@@ -5,7 +5,6 @@
 
 *Innovating to make life easier ⚙️🤖*
 
-[![Ark-STEM](https://img.shields.io/badge/Ark--STEM-Portfolio-blueviolet?style=flat)]([https://ark-stem.com/u/aarav](https://ark-stem.com/u/A_Solo_Engineer))
 
 </div>
 
