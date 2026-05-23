@@ -12,7 +12,7 @@
 
 ### Who am I?
 
-I'm a solo developer passionate about **AI**, **Automation**, and **mechatronics**. I build research tools, automation tools and analysis pipelines that automate discovery and extract meaningful insights from data and the web.
+I'm a solo developer passionate about **AI**, **Automation**, and **software**. I build research tools, automation tools and analysis pipelines that automate discovery and extract meaningful insights from data and the web.
 
 - 🔭 Focus: AI/ML, automation systems, and encryption softwares 
 - 🤝 Open for collaboration
@@ -35,7 +35,6 @@ I'm a solo developer passionate about **AI**, **Automation**, and **mechatronics
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
