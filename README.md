@@ -3,7 +3,7 @@
 # Hi, I'm Aarav 👋
 **Independent developer & maker**
 
-*Innovating to make life easier ⚙️🤖*
+*Innovating to make life easier*
 
 
 </div>
@@ -43,7 +43,7 @@ I'm a solo developer passionate about **AI**, **Automation**, and **software**. 
 
 - 🌐 **Portfolio:** [https://ark-stem.com/u/aarav](https://ark-stem.com/u/A_Solo_Engineer)
 -  **Email:** admin.forestritium@gmail.com
-- 🐛 **GitHub Issues:** Open an issue on any of my repos — I'm happy to discuss and collaborate!
+- 🐛 **GitHub Issues:** Open an issue on any of my repos. I'm happy to discuss and collaborate!
 
 ---
 
