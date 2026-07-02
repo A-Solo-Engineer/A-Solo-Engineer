@@ -23,7 +23,8 @@ I'm a solo developer passionate about **AI**, **Automation**, and **software**. 
 
 | Project | Description |
 |---|---|
-| [**ShadowCrypt**](https://github.com/Forestritium/ShadowCrypt) | End-to-end encrypted messaging software with a stateless backend. | 
+| [**ShadowCrypt**](https://github.com/Forestritium/ShadowCrypt) | End-to-end encrypted messaging software with a stateless backend. |
+| [**L_INKBook**](https://github.com/A-Solo-Engineer/L_INKBook) | A tamper-proof digital logbook where every entry is cryptographically locked using SHA-256 hashing and Merkle Trees. Once saved, entries cannot be silently edited. | 
 |  [**LLM-Developer**](https://github.com/A-Solo-Engineer/LLM-Developer) | Develop you own Language Model on your own sets of data. |
 | [**TRITIUM-Watcher**](https://github.com/A-Solo-Engineer/TRITIUM-Watcher) | Autonomous web-monitoring & alerting research tool — turns an AI assistant into a proactive research agent. |
 
