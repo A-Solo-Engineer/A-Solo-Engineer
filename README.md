@@ -23,10 +23,10 @@ I'm a solo developer passionate about **AI**, **Automation**, and **software**. 
 
 | Project | Description |
 |---|---|
- [**Aethium**](https://github.com/A-Solo-Engineer/aethium) | A minimal, high-performance UI framework for Go with immediate-mode rendering, supporting both browser (Wasm) and desktop targets. |
+| [**ShadowCrypt**](https://github.com/Forestritium/ShadowCrypt) | End-to-end encrypted messaging software with a stateless backend. | 
 |  [**LLM-Developer**](https://github.com/A-Solo-Engineer/LLM-Developer) | Develop you own Language Model on your own sets of data. |
 | [**TRITIUM-Watcher**](https://github.com/A-Solo-Engineer/TRITIUM-Watcher) | Autonomous web-monitoring & alerting research tool — turns an AI assistant into a proactive research agent. |
-| [**ShadowCrypt**](https://github.com/A-Solo-Engineer/ShadowCrypt) | Local-first, end-to-end encrypted messaging software with a stateless backend. | 
+
 
 ---
 
